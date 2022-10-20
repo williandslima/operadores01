@@ -1,5 +1,8 @@
 programa {
 	funcao inicio() {
+	    
+	    // Calculando a diferenca
+	    
 		inteiro numero1, numero2, numero3, numero4, diferenca
 		
 		escreva ("Calculo de Diferença \n")

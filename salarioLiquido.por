@@ -1,6 +1,8 @@
 programa {
 	funcao inicio() {
 	    
+	    // Calculando salario Liquido
+	    
 	    real salarioBruto, adicionalNoturno, horasExtras, descontos, salarioLiquido
 	    
 	    //leia salarioBruno

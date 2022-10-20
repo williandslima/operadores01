@@ -1,6 +1,8 @@
 programa {
 	funcao inicio() {
 	
+	//Calculando o abono
+	
 	real salario, abono
 	
 	//inicio
